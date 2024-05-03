@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personagens>
+ <princess>
+        <id>1</id>
+        <name>Branca de Neve</name>
+        <description>Branca de Neve é a primeira princesa da Disney e protagonista do filme "Branca de Neve e os Sete Anões". Ela é conhecida por sua beleza, inocência e gentileza.</description>
+    </princess>
+    <princess>
+        <id>2</id>
+        <name>Cinderela</name>
+        <description>Cinderela é uma das princesas mais populares da Disney, conhecida por sua história de transformação de criada em princesa. Ela é gentil, corajosa e otimista.</description>
+    </princess>
+    <princess>
+        <id>3</id>
+        <name>Aurora</name>
+        <description>Aurora é a princesa protagonista do filme "A Bela Adormecida". Ela é conhecida por sua beleza e graça, e por ter sido amaldiçoada a dormir até que um príncipe a desperte com um beijo de amor verdadeiro.</description>
+    </princess>
+    <princess>
+        <id>4</id>
+        <name>Ariel</name>
+        <description>Ariel é a protagonista do filme "A Pequena Sereia". Ela é conhecida por sua curiosidade, coragem e desejo de explorar o mundo humano.</description>
+    </princess>
+    <princess>
+        <id>5</id>
+        <name>Bela</name>
+        <description>Bela é a protagonista do filme "A Bela e a Fera". Ela é conhecida por sua inteligência, compaixão e amor pela leitura.</description>
+    </princess>
+    <princess>
+        <id>6</id>
+        <name>Jasmine</name>
+        <description>Jasmine é a princesa do filme "Aladdin". Ela é conhecida por sua determinação, independência e coragem para desafiar as expectativas sociais.</description>
+    </princess>
+    <princess>
+        <id>7</id>
+        <name>Pocahontas</name>
+        <description>Pocahontas é a protagonista do filme de mesmo nome. Ela é conhecida por sua conexão com a natureza, sua sabedoria e sua coragem para defender sua terra.</description>
+    </princess>
+    <princess>
+        <id>8</id>
+        <name>Mulan</name>
+        <description>Mulan é a protagonista do filme de mesmo nome. Ela é conhecida por sua coragem, determinação e habilidades de combate.</description>
+    </princess>
+    <princess>
+        <id>9</id>
+        <name>Tiana</name>
+        <description>Tiana é a protagonista do filme "A Princesa e o Sapo". Ela é conhecida por sua determinação em alcançar seus sonhos e por sua habilidade culinária.</description>
+    </princess>
+    <princess>
+        <id>10</id>
+        <name>Rapunzel</name>
+        <description>Rapunzel é a protagonista do filme "Enrolados". Ela é conhecida por sua energia, otimismo e sua longa cabeleira mágica.</description>
+    </princess>
+
+</personagens>
